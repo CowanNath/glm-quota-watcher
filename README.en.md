@@ -3,7 +3,7 @@
 #### Choose Your Language:  English | [简体中文](./README.md)
 
 > [!NOTE]
-> This plugin is an unofficial tool and has no affiliation with Zhipu AI.
+> This plugin is an unofficial tool.
 > This plugin fetches quota information by calling the GLM monitoring API.
 > This plugin is developed based on [AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher).
 
