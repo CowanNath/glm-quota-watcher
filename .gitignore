@@ -54,5 +54,7 @@ $RECYCLE.BIN/
 
 # 其他
 .claude/
+
+CLAUDE.md
 AGENT.md
 .agent/workflows/package_extension.md
